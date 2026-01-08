@@ -54,7 +54,8 @@ TuneUI/
 
 📸 Preview
 
-<a href="file:///Users/apple/Desktop/Projects/TuneUI/index.html" alt="click on it">
+<img src="assets/preview" height=200 width=200>
+
 ---
 ## 🎯 Learning Outcomes
 
