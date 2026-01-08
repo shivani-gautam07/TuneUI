@@ -24,14 +24,13 @@ This project focuses on frontend layout, styling, and responsive design without 
 
 ## 📂 Project Structure
 
-
-
+```
 TuneUI/
 ├── assets/
 ├── homeassets/
 ├── index.html
 └── style.css
-
+```
 
 
 ---
@@ -39,13 +38,13 @@ TuneUI/
 ## 🚀 Getting Started
 
 1. Clone the repository
-   bash
+   ```bash```
    git clone https://github.com/shivani-gautam07/TuneUI.git
 
 
 2. Open the project folder
 
-   bash
+   ```bash```
    cd TuneUI
    
 
