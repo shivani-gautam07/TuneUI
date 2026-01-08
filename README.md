@@ -54,7 +54,7 @@ TuneUI/
 
 📸 Preview
 
-<img src="assets/preview" height=200 width=200>
+<img src="assets/preview.png" height=200 width=200>
 
 ---
 ## 🎯 Learning Outcomes
