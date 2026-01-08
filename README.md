@@ -52,6 +52,10 @@ TuneUI/
 
 ---
 
+📸 Preview
+
+<a href="file:///Users/apple/Desktop/Projects/TuneUI/index.html" alt="click on it">
+---
 ## 🎯 Learning Outcomes
 
 * Improved HTML semantic structure
